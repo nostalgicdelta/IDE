@@ -1,0 +1,1 @@
+An IDE that I did not choose was JCreator. Although it looks beginner friendly it did not seem right for me. The UI was extremely simple and probably not something I would use in the future. JCreator at this point is considered an older Java IDE and I wanted to accustom myself to a more modern IDE and get a feel for it now instead of later. 
