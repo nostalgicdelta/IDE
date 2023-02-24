@@ -1,0 +1,1 @@
+I chose Visual Studio Code because it supports many different languages not just JAVA. It also has a very modern UI and is very simple and intuitive. Another benifit is the software is open source. Lastly, I also have some experience with Visual Studio Code. All of these reasons are why I chose Visual Studio Code to be my IDE.  
